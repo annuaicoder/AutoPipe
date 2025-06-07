@@ -111,3 +111,7 @@ MIT — use it, fork it, improve it.
 Made with ❤️ by @annuaicoder
 
 Skip the boilerplate. Ship pipelines fast. Use AutoPipe.
+
+
+
+# Maintained by @annuaicoder
