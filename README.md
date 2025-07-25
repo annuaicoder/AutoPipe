@@ -108,7 +108,7 @@ Open a pull request
 MIT — use it, fork it, improve it.
 
 🧑‍💻 Author
-Made by @annuaicoder
+Made by @annuaicoder / @codewithanas007
 
 Skip the boilerplate. Ship pipelines fast. Use AutoPipe.
 
