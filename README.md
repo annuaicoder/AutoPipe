@@ -110,8 +110,6 @@ MIT — use it, fork it, improve it.
 🧑‍💻 Author
 Made by @annuaicoder / @codewithanas007
 
-Maintained By @annuaicoder
-
 Skip the boilerplate. Ship pipelines fast. Use AutoPipe.
 
 
